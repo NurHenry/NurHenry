@@ -7,7 +7,7 @@ Im the owner of the Minecraft server SwordCraftOnline, a server based on the ani
 - 📄 Website: https://swordcraftonline.de/
 - 💬 Forums: https://forum.swordcraftonline.de/forum/
 - 📱 Discord: https://discord.gg/kAAUvHFUfM
-- 🐦Twitter: [@NurHenry](https://twitter.com/NurHenry)
+- 🐦Twitter: [@NurHenry](https://twitter.com/NurHenry1)
 
 
 # ⚡ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓪𝓷𝓭 𝓼𝓴𝓲𝓵𝓵𝓼
