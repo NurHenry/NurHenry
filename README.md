@@ -23,11 +23,10 @@ Im the owner of the Minecraft server SwordCraftOnline, a server based on the ani
 
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
-<img aligin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPEql&theme=midnight-purple" alt="most used languages">
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhenry&theme=midnight-purple&show_icons=true&locale=en" alt="nurhenry" /></p>
 <a align="center" href="https://github.com/NurHenry/Webseite">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NurHenry&repo=Webseite&theme=midnight-purple" />
 </a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPEql&theme=midnight-purple" alt="most used languages">
 <!-- <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nurhenry&theme=jolly&show_icons=true&locale=en&layout=compact" alt="nurhenry" /></p><br /> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhenry&" alt="nurhenry" /></p> -->
