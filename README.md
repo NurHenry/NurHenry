@@ -2,7 +2,7 @@
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
 Im the owner of the Minecraft server SwordCraftOnline, a server based on the anime SwordArtOnline. Currently working with IntelliJ IDEA. Im good with managing my work and working with a team.
 
-<img src="https://cdn.discordapp.com/attachments/860528424648441876/890988310363783208/untitled.png"/>
+<img src="https://cdn.discordapp.com/attachments/860528424648441876/870415735422345287/SCO_patreon.png"/>
 
 - 📄 Website: https://swordcraftonline.de/
 - 💬 Forums: https://forum.swordcraftonline.de/forum/
