@@ -1,5 +1,5 @@
 
-# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
+# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> About me
 Im the owner of the Minecraft server SwordCraftOnline, a server based on the anime SwordArtOnline. Currently working with IntelliJ IDEA. Im good with managing my work and working with a team.
 
 
