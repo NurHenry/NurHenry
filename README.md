@@ -4,7 +4,7 @@ Im the owner of the Minecraft server SwordCraftOnline, a server based on the ani
 
 <p align="center">
 
-# <img height="20" src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e477kra8a8go24rd8hpjxghjy1i1v3yo89xelqchqaj&rid=giphy.gif&ct=s"> Knowledge and skills
+# <img height="80" src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e477kra8a8go24rd8hpjxghjy1i1v3yo89xelqchqaj&rid=giphy.gif&ct=s"> Knowledge and skills
   
 ![My Skills](https://skills.thijs.gg/icons?i=java,html,css,mysql,js,py&theme=dark)
   
