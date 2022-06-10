@@ -2,8 +2,6 @@
 # About me
 Im the owner of the Minecraft server SwordCraftOnline, a server based on the anime SwordArtOnline. Currently working with IntelliJ IDEA. Im good with managing my work and working with a team.
 
-![Metrics](/github-metrics.svg)
-
 <p align="center">
 
 # Knowledge and skills
@@ -16,6 +14,9 @@ Im the owner of the Minecraft server SwordCraftOnline, a server based on the ani
   <br>
   
 # GitHub stats
+  
+  ![Metrics](/github-metrics.svg)
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NurHenry&show_icons=true&theme=onedark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NurHenry&repo=Webseite&theme=onedark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurHenry&theme=onedark" />
