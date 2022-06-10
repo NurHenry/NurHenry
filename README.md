@@ -11,7 +11,7 @@ Im the owner of the Minecraft server SwordCraftOnline, a server based on the ani
 
   <img align="center" src="https://img.shields.io/badge/Java-Good-green" /> <img align="center" src="https://img.shields.io/badge/HTML-Good-green" /> <img align="center" src="https://img.shields.io/badge/CSS-Good-green" /> <img align="center" src="https://img.shields.io/badge/MySQL-Good-green" /> <img align="center" src="https://img.shields.io/badge/JavaScript-Basics-yellow" /> <img align="center" src="https://img.shields.io/badge/Python-Basics-yellow" />
   
-  
+  <br>
   
 # GitHub stats
 
