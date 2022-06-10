@@ -8,16 +8,6 @@ Im the owner of the Minecraft server SwordCraftOnline, a server based on the ani
 
 ![My Skills](https://skills.thijs.gg/icons?i=java,js,py,html,css,mysql&theme=dark)
 
-
-
-![Java](https://img.shields.io/badge/java-Advanced-purple)
-![Linux](https://img.shields.io/badge/linux-Advanced-purple)
-![CSS](https://img.shields.io/badge/css-Good-green)
-![HTML](https://img.shields.io/badge/html-Good-green)
-![SQL](https://img.shields.io/badge/sql-Good-green)
-![JavaScript](https://img.shields.io/badge/javascript-Beginner-orange)
-
-
 # 📈 GitHub stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhenry&theme=midnight-purple&show_icons=true&locale=en" alt="nurhenry" />
