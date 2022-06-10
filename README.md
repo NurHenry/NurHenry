@@ -6,7 +6,7 @@ Im the owner of the Minecraft server SwordCraftOnline, a server based on the ani
 
 # ⚡ Knowledge and skills
 
- [My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)
+ [[My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)]
 
 
 ![Java](https://img.shields.io/badge/java-Advanced-purple)
