@@ -1,15 +1,5 @@
 
-# About me
-Hello World!
-my name is Henry, I'm 18 years old and I'm currently doing an intership to become an IT specialist for system integration. 
-when i code i love to work together with a structured and harmonising team
-
-a structured and commented code is the most important for me, so that other developers can understand my code easily and work on it with it without problems
-
-I prefer to work with the following IDE's : VisualStudioCode, AtomEditor and IntelliJ IDEA
-
-but if i work in a Team, i also like to adapt to my team. 
-
+# Hello World!
 
 <p align="center">
 
