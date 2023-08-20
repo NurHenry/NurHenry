@@ -1,9 +1,6 @@
 
 # Hello World!
-Greetings! I'm Henry. I am 18 years old and highly interested in IT security.
-I firmly believe in the power of well-structured and commented code, enabling seamless collaboration among developers. It's about fostering understanding and smooth teamwork.
-
-When it comes to my preferred IDEs, I find solace in the realm of VisualStudioCode, AtomEditor, and IntelliJ IDEA. But rest assured, when working within a team, I am adaptable and open to embracing the team's collective preferences.
+Greetings! I'm Henry, 18 years old and highly interested in IT security.
 
 <p align="center">
 
