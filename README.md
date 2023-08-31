@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [https://tryhackme.com/p/NurHenry](https://tryhackme.com/p/NurHenry)
 
 <h3 align="left">Connect with me:</h3>
-- 👻 Discord: NurHenry
+- 👻 Discord: **NurHenry**
 <p align="left">
 </p>
 
