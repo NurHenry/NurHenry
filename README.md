@@ -1,6 +1,6 @@
 
 # Hello World!
-Greetings! I'm Henry, 18 years old and highly interested in IT security.
+Early Cybery security Intermediate
 
 <p align="center">
 
