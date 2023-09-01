@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=NurHenry&show_icons=true&theme=dark#gh-dark-mode-only" alt="nurhenry"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhenry&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only" alt="nurhenry" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhenry&show_icons=true&layout=donut&theme=dark#gh-dark-mode-only" alt="nurhenry" /></p>
