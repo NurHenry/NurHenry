@@ -15,7 +15,7 @@
 - [Live Face Detection using CV2](https://github.com/NurHenry/Face-Detection-Webcam)
 - [Support Chatbot using OpenAI]()
 ### AutoHotkey
-- [Get Mouse Coordinates in .txt]()
+- [Tools to get Mouse Coordinates](https://github.com/NurHenry/ahk-get-mouse-coordinates)
 - [Macro Bot to collect cement in ARK](https://github.com/NurHenry/Snails-Automated)
 - [Full Toolkit for Farming in ARK](https://github.com/NurHenry/ASA-Farming-AHK)
 ### Other
