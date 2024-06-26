@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Early Intermediate</h3>
 
 - I’m currently working on a **Web Password Generator**
-- Check this out! [my Personal Website!](https://henry-dabelstein.de)
+- Check this out! [My Personal Website!](https://henry-dabelstein.de)
 
 # Tools, Languages, and Skills
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,mysql,powershell,py,java,docker,nginx,html,css)](https://skillicons.dev)
