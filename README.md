@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋 I'm Henry</h1>
-<h3 align="center">Cybersecurity Early Intermediate</h3>
+<h3 align="center">Cybersecurity Intermediate</h3>
 
 - I’m currently working on a **Web Password Generator**
 
