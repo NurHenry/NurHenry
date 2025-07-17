@@ -1,10 +1,8 @@
 <h1 align="center">Hello World! 👋 I'm Henry</h1>
-<h3 align="center">Cybersecurity Intermediate</h3>
-
-- I’m currently working on a **Web Password Generator**
+<h3 align="center">Security Engineer</h3>
 
 # Tools, Languages, and Skills
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,mysql,powershell,py,java,docker,nginx,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,windows,linux,mysql,powershell,py,java,nginx,html,css)](https://skillicons.dev)
 
 # Check out my Projects!
 ### Cybersecurity
