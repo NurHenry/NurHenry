@@ -2,7 +2,7 @@
 <h3 align="center">Security Engineer</h3>
 
 # Tools, Languages, and Skills
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,windows,linux,mysql,powershell,py,java,nginx,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,windows,linux,mysql,powershell,py,java,html,css)](https://skillicons.dev)
 
 # Check out my Projects!
 ### Security
