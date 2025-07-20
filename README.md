@@ -8,6 +8,7 @@
 ### Security
 - [Text-based Blowfish Encryption Tool](https://henry-dabelstein.de/crypt)
 - [Password Generator in Java](https://github.com/NurHenry/Simple-Passwort-Generator)
+- [Elasticsearch Nginx log Monitoring](https://github.com/NurHenry/ElasticSearch-Logstash-Monitor-Nginx-logs)
 ### AI
 - [Live Face Detection using CV2](https://github.com/NurHenry/Face-Detection-Webcam)
 - [Support Chatbot using OpenAI]()
