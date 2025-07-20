@@ -13,6 +13,7 @@
 - [Live Face Detection using CV2](https://github.com/NurHenry/Face-Detection-Webcam)
 - [Support Chatbot using OpenAI]()
 ### Other
+- [Helm Dependency Unpacker](https://github.com/NurHenry/helm-dependency-unpacker)
 - [Providing Networks and Services](https://github.com/ScriptingDon/Providing-Networks-and-Services)
 - [SQL Database for a Food Company](https://github.com/NurHenry/SQL-Database-for-a-Food-Company)
 
