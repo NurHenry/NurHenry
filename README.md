@@ -1,5 +1,3 @@
-# Henry
-
 ### Security · Infrastructure · Software
 
 I'm a Security Engineer focused on infrastructure, systems, and building useful software.
