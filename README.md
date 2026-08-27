@@ -51,13 +51,3 @@ I enjoy working close to the systems software runs on.
 `containers` · `orchestration` · `automation` · `observability` · `self-hosting`
 
 ---
-
-<p align="left">
-  <a href="https://henry.re">
-    <img src="https://img.shields.io/badge/Website-henry.re-18181B?style=flat-square" />
-  </a>
-  <a href="https://tryhackme.com/p/NurHenry">
-    <img src="https://img.shields.io/badge/TryHackMe-profile-18181B?style=flat-square&logo=tryhackme&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/github/stars/NurHenry?affiliations=OWNER&style=flat-square&label=Stars&color=18181B" />
-</p>
