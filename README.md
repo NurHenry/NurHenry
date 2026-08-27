@@ -1,21 +1,18 @@
-<h1 align="center">Hello World! 👋 I'm Henry</h1>
-<h3 align="center">Security Engineer</h3>
+# Henry
 
-# Tools, Languages, and Skills
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,windows,linux,mysql,powershell,py,java,html,css)](https://skillicons.dev)
+### Security · Infrastructure · Software
 
-# Check out my Projects!
-### Security
-- [Text-based Blowfish Encryption Tool](https://henry-dabelstein.de/crypt)
-- [Password Generator in Java](https://github.com/NurHenry/Simple-Passwort-Generator)
-- [Elasticsearch Nginx log Monitoring](https://github.com/NurHenry/ElasticSearch-Logstash-Monitor-Nginx-logs)
-### AI
-- [Live Face Detection using CV2](https://github.com/NurHenry/Face-Detection-Webcam)
-- [Support Chatbot using OpenAI]()
-### Other
-- [Helm Dependency Unpacker](https://github.com/NurHenry/helm-dependency-unpacker)
-- [Providing Networks and Services](https://github.com/ScriptingDon/Providing-Networks-and-Services)
-- [SQL Database for a Food Company](https://github.com/NurHenry/SQL-Database-for-a-Food-Company)
+I'm a Security Engineer focused on infrastructure and the software around it.
 
-# GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=NurHenry&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+I build tools, automation, and systems that make infrastructure easier to operate and harder to break.
+
+My work revolves around:
+
+`infrastructure` · `security` · `automation` · `systems` · `networking`
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/NurHenry?style=flat-square&label=GitHub&color=18181B" />
+  <img src="https://img.shields.io/github/stars/NurHenry?affiliations=OWNER&style=flat-square&label=Stars&color=18181B" />
+</p>
