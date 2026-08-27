@@ -2,7 +2,7 @@
 
 I'm a Security Engineer focused on infrastructure, systems, and building useful software.
 
-A lot of my work revolves around containerized infrastructure, automation, and the systems that keep software running reliably.
+A lot of my work revolves around containerized infrastructure, automation, and the systems that keep software the running.
 
 `infrastructure` · `security` · `automation` · `systems`
 
@@ -46,6 +46,6 @@ I enjoy working close to the systems software runs on.
   <img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-`containers` · `orchestration` · `automation` · `observability` · `self-hosting`
+`containers` · `orchestration` · `automation` · `observability`
 
 ---
